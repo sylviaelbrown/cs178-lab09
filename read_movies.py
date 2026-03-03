@@ -28,7 +28,7 @@ def print_movie(movie):
     print(f"  Title  : {title}")
     print(f"  Year   : {year}")
     print(f"  Ratings: {ratings}")
-    print(f", Genre: {genre}")
+    print(f", Genre : {genre}")
     print()
 
 def print_all_movies():
